@@ -3,7 +3,7 @@
 <suite name="GitHub Application Testing">
 	<test name="Github Login">
 		<classes>
-			<class name="GitHubLogin"></class>
+			<class name="test.GitHubLogin"></class>
 		</classes>
 	</test>
 </suite>
