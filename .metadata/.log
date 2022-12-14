@@ -558,3 +558,9 @@ java -ea -classpath C:\Users\vikram\eclipse\java-2022-06\eclipse\configuration\o
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-13 23:38:16.933
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-14 11:05:00.255
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-14 11:05:00.259
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
